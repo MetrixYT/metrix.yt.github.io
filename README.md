@@ -1,1 +1,3 @@
-# metrix.yt.github.io
+# Metrix.YT
+
+A simple web forwarder for https://metrixyt.com
